@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on PHP
 - 🌱 I’m currently learning Laravel 11
 - 💬 Ask me about ASP.NET, C#, PHP, ...
-- 📫 How to reach me: cuhoangdk
+- 📫 How to reach me: cuhoangdk@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i love osu!
 
