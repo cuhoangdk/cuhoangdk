@@ -2,7 +2,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cuhoangdk&label=Profile%20views&color=0e75b6&style=flat" alt="henrymontage" /> </p>
 
 - 🔭 I’m currently working on PHP
-- 🌱 I’m currently learning Laravel 11
+- 🌱 I’m currently learning Solidity, Blockchain, Web3
 - 💬 Ask me about ASP.NET, C#, PHP, ...
 - 📫 How to reach me: cuhoangdk@gmail.com
 - 😄 Pronouns: he/him
