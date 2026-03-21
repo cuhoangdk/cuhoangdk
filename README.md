@@ -1,12 +1,13 @@
 ## Hi there 👋, I'm cuhoangdk
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cuhoangdk&label=Profile%20views&color=0e75b6&style=flat" alt="henrymontage" /> </p>
 
-- 🔭 I’m currently working on PHP
+<s>- 🔭 I’m currently working on PHP
 - 🌱 I’m currently learning Solidity, Blockchain, Web3
 - 💬 Ask me about ASP.NET, C#, PHP, ...
 - 📫 How to reach me: cuhoangdk@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i love osu!
+- ⚡ Fun fact: i love osu!</s>
+- Retired from coding!
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cuhoangdk&show_icons=true&locale=en&layout=compact" alt="cuhoangdk" /></p>
 
